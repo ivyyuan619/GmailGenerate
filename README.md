@@ -43,14 +43,14 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
    ```sh
    Open your web browser and go to http://localhost:8501.
 4. **Generate an email:**
--Enter your question or email prompt.
--Click the "Generate Email" button.
--View the generated email content.
+- Enter your question or email prompt.
+- Click the "Generate Email" button.
+- View the generated email content.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me
--Email: bu.ju@northeastern.edu OR ivyyuan.zhou@gmail.com
--GitHub: ivyyuan619
+- If you have any questions or suggestions, feel free to contact me.
+- Email: bu.ju@northeastern.edu OR ivyyuan.zhou@gmail.com
+- GitHub: ivyyuan619
 
 
 
