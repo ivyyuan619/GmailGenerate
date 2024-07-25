@@ -10,9 +10,11 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 ## Installation
 ### Prerequisites
 ### Step
-1. Clone the repository:
-git clone https://github.com/ivyyuan619/GmailGenerate.git
-cd completed_code_7_24.py
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/yourusername/yourproject.git
+   cd yourproject
 
 2.Install the required packages:
 pip install -r requirements.txt
