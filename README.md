@@ -49,8 +49,8 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me
-Email: bu.ju@northeastern.edu OR ivyyuan.zhou@gmail.com
-GitHub: ivyyuan619
+-Email: bu.ju@northeastern.edu OR ivyyuan.zhou@gmail.com
+-GitHub: ivyyuan619
 
 
 
