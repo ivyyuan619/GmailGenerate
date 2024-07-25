@@ -9,30 +9,40 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 
 ## Installation
 ### Prerequisites
+
+- Python 3.7 or higher
+- Pip package manager
+  
 ### Step
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/ivyyuan619/GmailGenerate.git
+   cd completed_code_7_24.py
 
-2.Install the required packages:
-pip install -r requirements.txt
+2. **Install the required packages:**
+   ```sh
+   pip install -r requirements.txt
 
-3. If requirements.txt is not available, you can install the dependencies manually:
-pip install openai streamlit pandas wordcloud matplotlib langchain langchain_community
+3. **If requirements.txt is not available, you can install the dependencies manually:**
+   ```sh
+   pip install openai streamlit pandas wordcloud matplotlib langchain langchain_community
 
-4. Set up the OpenAI API key:
-Replace "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" with your actual OpenAI API key in the script.
+4. **Set up the OpenAI API key:**
+   ```sh
+   Replace "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" with your actual OpenAI API key in the script.
 
 ### Usage
-1. Navigate to the project directory:
-cd completed_code_7_24.py
-2. Run the Streamlit application:
-streamlit run completed_code_7_24.py
-3. Access the web application:
-Open your web browser and go to http://localhost:8501.
-4. Generate an email:
+1. **Navigate to the project directory:**
+   ```sh
+   cd completed_code_7_24.py
+2. **Run the Streamlit application:**
+   ```sh
+   streamlit run completed_code_7_24.py
+3. **Access the web application:**
+   ```sh
+   Open your web browser and go to http://localhost:8501.
+4. **Generate an email:**
 -Enter your question or email prompt.
 -Click the "Generate Email" button.
 -View the generated email content.
