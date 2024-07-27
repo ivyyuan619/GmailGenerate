@@ -22,7 +22,7 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 2. **Navigate to the correct directory:**
 
    ```sh
-   cd EmailGenerate
+   cd GmailGenerate
 
 3. **Install the required packages:**
    ```sh
