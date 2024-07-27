@@ -65,9 +65,9 @@ III. **Use the attachment to upload your file. But now there is no further usage
 
 The following features are on our roadmap:
 
-- Feature 1 Add more standards to improve the stability and accuracy of scoring
-- Feature 2 Add the new function to count the similarity of input and output
-- Feature 3 Expand the Excel tool to categorize data into various major categories, providing a more structured analysis.
+- **Feature 1** Add more standards to improve the stability and accuracy of scoring
+- **Feature 2** Add the new function to count the similarity of input and output
+- **Feature 3** Expand the Excel tool to categorize data into various major categories, providing a more structured analysis.
 
 ## Contact
 - If you have any questions or suggestions, feel free to contact me.
