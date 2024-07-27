@@ -18,7 +18,7 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 
    ```sh
    git clone https://github.com/ivyyuan619/GmailGenerate.git
-   cd completed_code_7_24.py
+   cd EmailGenerate
 
 2. **Install the required packages:**
    ```sh
