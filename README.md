@@ -18,17 +18,21 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 
    ```sh
    git clone https://github.com/ivyyuan619/GmailGenerate.git
+
+2. ** Navigate to the correct directory:**
+
+  ```sh
    cd EmailGenerate
 
-2. **Install the required packages:**
+3. **Install the required packages:**
    ```sh
    pip install -r requirements.txt
 
-3. **If requirements.txt is not available, you can install the dependencies manually:**
+4. **If requirements.txt is not available, you can install the dependencies manually:**
    ```sh
    pip install openai streamlit pandas wordcloud matplotlib langchain langchain_community
 
-4. **Set up the OpenAI API key:**
+5. **Set up the OpenAI API key:**
    ```sh
    Replace "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" with your actual OpenAI API key in the script.
 
