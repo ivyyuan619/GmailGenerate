@@ -37,13 +37,10 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
    Replace "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" with your actual OpenAI API key in the script.
 
 ### Usage
-1. **Navigate to the project directory:**
-   ```sh
-   cd completed_code_7_24.py
-2. **Run the Streamlit application:**
+1. **Run the Streamlit application:**
    ```sh
    streamlit run completed_code_7_24.py
-3. **Access the web application:**
+2. **Access the web application:**
    ```sh
    Open your web browser and go to http://localhost:8501.
    
