@@ -40,11 +40,14 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 1. **Run the Streamlit application:**
    ```sh
    streamlit run completed_code_7_24.py
-2. **Access the web application:**
+2. **If you cannot run Streamlit, you can run:**
+   ```sh
+   python -m streamlit run completed_code_7_24.py
+   
+3. **Access the web application:**
    ```sh
    Open your web browser and go to http://localhost:8501.
    
-
 ## Homepage
 On the homepage, you can choose two services: using the prompt to generate the email or using data of email to get the analysis and improve the quality (Optimizing Email by example)
 
