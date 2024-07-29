@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 #Function to get the response back
 
-openai.api_key = "sk-proj-fQ88IArjjEyYAUPZ9OfOT3BlbkFJerpybTep9Ou2dQIqtNV7"        # This is API key
+openai.api_key = "sk-proj-fQ88IArjjEyYAUPZ9OfOT3BlbkFJerpybTep9Ou2dQIqtNV7"        # Add your API key here
 
 def AIemail(question,max_tokens = 100):
     prompt = question
