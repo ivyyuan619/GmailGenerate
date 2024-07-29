@@ -34,7 +34,7 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 
 5. **Set up the OpenAI API key:**
    ```sh
-   Replace "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" with your actual OpenAI API key in the script.
+   Replace "sk-proj-fQ88IArjjEyYAUPZ9OfOT3BlbkFJerpybTep9Ou2dQIqtNV7" with your actual OpenAI API key in the script.
 
 ### Usage
 1. **Run the Streamlit application:**
