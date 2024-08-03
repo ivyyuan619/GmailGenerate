@@ -53,18 +53,18 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
    Open your web browser and go to http://localhost:8501.
    
 ## Homepage
-On the homepage, you can choose two services: using the prompt to generate the email or using data of email to get the analysis and improve the quality (Optimizing Email by example)
+From the homepage, you can choose two services: 1.) utilize the prompt to generate emails and 2.) use data of email to get the analysis and improve the quality 
 
 ### Prompt: 
-There are six industries you can choose. Every session, we trained the model to be more professional in special industry
+There are six industries you can choose from Retail, Restaurant, Law Firm, CPA Firm, Salons, AI, and others. We trained our model across multiple sessions to be more professional within your chosen industry.
 
 ### Optimizing Email by Example: 
 I. **Analytical tools:** 
    1. Summary: Help you check the structure of the email
    2. Wordcloud: Help you find the keyword
-   3. Scoring: Help you score the quality of your email
+   3. Scoring: Help you score the quality of your email : 0-2: Needs Improvement.2-4: Adequate.4-5: Excellent.
 
-II. **Click the "Generate " button and view the generated email content. You can also use the history function to see the previous answer**
+II. **Click the "Generate " button and view the generated email content. You can also use the "history" function to see the previous answer**
 
 III. **Use the attachment to upload your file. But now there is no further usage of this function**
 
