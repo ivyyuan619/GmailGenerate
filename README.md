@@ -2,13 +2,13 @@
 
 This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo model to generate email content based on user input.
 
-## Features
+## Features 
 
 1. Utilize an accessible and user-friendly interface.
    
-2. Generate professional emails using AI.
+2. Generate professional emails using AI.
 
-3. Generate word cloud visualizations based on generated email content.
+3. Generate word cloud visualizations based on generated email content.
 
 
 ## Installation
