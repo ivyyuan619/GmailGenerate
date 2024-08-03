@@ -4,7 +4,9 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
 
 ## Features
 1. Utilize an accessible and user-friendly interface.
+   
 2. Generate professional emails using AI.
+
 3. Generate word cloud visualizations based on generated email content.
 
 
