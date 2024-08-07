@@ -1,6 +1,6 @@
 # GmailGenerate
 
-This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo model to generate email content based on user input.
+This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo model to generate email content based on user input. Our team has split email generation into two key parts: prompts for creating high-quality emails based on customer needs, and examples to enhance existing emails. . Users can upload documents like Excel and CSV files to manage multiple emails simultaneously, ensuring comprehensive content with themes, locations, times, requirements, and benefits. 
 
 ## Features 
 
