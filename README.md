@@ -36,10 +36,6 @@ This project is a Streamlit web application that uses OpenAI's GPT-3.5-turbo mod
    ```sh
    pip install openai streamlit pandas wordcloud matplotlib langchain langchain_community
 
-5. **Set up the OpenAI API key:**
-   ```sh
-   Replace "sk-proj-fQ88IArjjEyYAUPZ9OfOT3BlbkFJerpybTep9Ou2dQIqtNV7" with your actual OpenAI API key in the script.
-
 ### Usage
 1. **Run the Streamlit application:**
    ```sh
